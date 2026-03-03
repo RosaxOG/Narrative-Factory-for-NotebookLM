@@ -1,0 +1,35 @@
+# Compiled source #
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.obj
+*.so
+*.dSYM/
+*.pdb
+
+# Backup files #
+*~
+*.bak
+*.tmp
+
+# Logs and databases #
+*.log
+*.sql
+*.sqlite
+
+# IDE and editor folders #
+.vscode/
+.idea/
+*.swp
+
+# Python specific #
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Node.js specific #
+npm-debug.log
+node_modules/
